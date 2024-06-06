@@ -1,4 +1,4 @@
-![filler game](./filler.gif)
+![filler game](./filler_.gif)
 
 # Filler Game Visualization
 This project is a Rust implementation of the game Filler, with a visualization using the `SDL2` library. The game involves placing pieces on a board to encircle the enemy.
